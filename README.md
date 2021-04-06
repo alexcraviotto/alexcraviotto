@@ -7,6 +7,8 @@
   <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   [![Views](https://komarev.com/ghpvc/?username=alexcraviotto&color=green)
 </p>
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+
 
 ## 📖 About me
 
