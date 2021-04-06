@@ -4,7 +4,7 @@
 <h3 align="center">Hey there, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/alexcraviotto"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/alexcraviotto?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   ![Profile views](https://gpvc.arturio.dev/alexcraviotto)
 </p>
 ![Profile views](https://gpvc.arturio.dev/alexcraviotto)
