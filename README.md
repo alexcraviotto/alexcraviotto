@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alex Craviotto</h1>
-<h3 align="center">A computer enthusiast from Spain</h3>
-</br>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-
-
----
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
