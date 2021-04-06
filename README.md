@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/alexcraviotto"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/alexcraviotto?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  ![Profile views](https://gpvc.arturio.dev/alexcraviotto)
+    <a href="https://github.com/alexcraviotto"><img alt="views" title="Github views" src="https://freshidea.com/alexcraviotto/app/ghpvc/"/></a>
 </p>
-![Profile views](https://gpvc.arturio.dev/alexcraviotto)
+
+
 
 
 ## 📖 About me
