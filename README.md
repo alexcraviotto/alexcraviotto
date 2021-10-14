@@ -12,9 +12,9 @@
 
 ## 📖 About me
 
-- 🔭 I’m currently working on [ClassCord](https://classcord.me/)
+- 🔭 My biggest project so far: [ClassCord](https://classcord.me/)
 - 📝 I regulary write articles on: [https://medium.com/@craviottoalex](https://medium.com/@craviottoalex)
-- 🌱 I’m currently learning **Python and C++**
-- ⚡ Fun fact: **I love listening to music**
+- 🌱 Good ideas are always crazy until they're not - Elon Musk
+
 
 
