@@ -12,8 +12,8 @@
 
 ## 📖 About me
 
-- 🔭 My biggest project so far: [ClassCord](https://classcord.me/)
-- 📝 I regulary write articles on: [https://medium.com/@craviottoalex](https://medium.com/@craviottoalex)
+- 🔭 My biggest project so far: [ClassCord]
+
 - 🌱 Good ideas are always crazy until they're not - Elon Musk
 
 
