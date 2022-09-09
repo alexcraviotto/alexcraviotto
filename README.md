@@ -12,8 +12,6 @@
 
 ## 📖 About me
 
-- 🔭 My biggest project so far: [ClassCord]
-
 - 🌱 Good ideas are always crazy until they're not - Elon Musk
 
 
